@@ -1,5 +1,5 @@
 # Infant-Brand-Prediction
-Predicting consumers' current brand choice by Machine Learning Algorithms
+Predicting consumers' current brand choice by Machine Learning algorithms
 
 # 1. Introduction
 
