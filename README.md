@@ -9,3 +9,19 @@ This project is based on a dataset from mulitple data sources, including CDP (cu
 
 * Investigate the features that impact the current infant formula brand for a mom
 * Forecast the probability of a caregiver uses MJN as their formula.
+
+
+# 3. Data Sources
+
+The samples are selected from from multiple internal databases (with common key), and the time period is from 2019 Jan to 2020 Dec. 
+
+# 4. Methodology
+
+* Dependent variables: current formula brand.​
+
+* Independent variables: first use brand, email OR, CTR, coupon redemption rate, enrollment type, enrollment age, baby age, breastfeed type, hospital zone.​
+
+* Machine Learning Models: Logistic regression, decision tree, Artificial Neural Network.​
+
+# 5. Data cleaning
+
