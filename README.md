@@ -25,3 +25,9 @@ The samples are selected from from multiple internal databases (with common key)
 
 # 5. Data cleaning
 
+* Select or calculate the variables from the data lake.
+* Utilize the common key “Individual ID” to link 2 data sources.
+* Remove the records with “null” value.
+* Manipulate certain columns. (e.g. set the ones with current brand as MJN equal to 1 , other brands as 0).
+* Scale each column (ranged from 0 to 1).
+
