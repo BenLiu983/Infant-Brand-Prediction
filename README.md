@@ -27,6 +27,11 @@ The samples are selected from from multiple internal databases (with common key)
 
 Note that the dataset has been modified and resamples due to the non-disclosure agreement, the time period is from 2019 to 2020.
 
+
+![image](https://user-images.githubusercontent.com/64850893/135514790-3767aed0-35b1-4450-a3d7-d8ce9589d845.png)
+
+
+
 ## Variable intepretation:
 * Current brand: "1" represents our brand, and other values represent other brands.
 * First purchase brand: "1" represents our brand, and other values represent other brands.
