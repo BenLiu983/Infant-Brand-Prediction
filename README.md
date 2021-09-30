@@ -25,7 +25,7 @@ The samples are selected from from multiple internal databases (with common key)
 
 # 5. Raw Data
 
-Note that the dataset has been modified and resamples due to the non-disclosure agreement.
+Note that the dataset has been modified and resamples due to the non-disclosure agreement, the time period is from 2019 to 2020.
 
 ## Variable intepretation:
 * Current brand: "1" represents our brand, and other values represent other brands.
