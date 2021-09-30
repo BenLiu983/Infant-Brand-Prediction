@@ -25,8 +25,6 @@ The samples are selected from from multiple internal databases (with common key)
 
 # 5. Raw Data
 
-
-
 Note that the dataset has been modified and resamples due to the non-disclosure agreement.
 
 ## Variable intepretation:
@@ -38,7 +36,7 @@ Note that the dataset has been modified and resamples due to the non-disclosure 
 * Enrollment type: the source from which a person enroll to our program (Digital Self Enrollment, Co-registered)
 * Enrollment age: the age of the baby when the parent enrolled in our program
 * Baby age: the age of the babay when the parent took the survey 
-* Breastfeed type: "1" represents our hospital zone, and other values represent other brands.
+* Breastfeed type: "1" represents breastfed only, "2" represents both breastfed and formula feed, "3" represents formula feed only, "4" represents neither.
 * Hospital zone: "1" represents our hospital zone, and other values represent other brands.
 
 
