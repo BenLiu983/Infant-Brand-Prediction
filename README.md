@@ -25,7 +25,9 @@ The samples are selected from from multiple internal databases (with common key)
 
 # 5. Raw Data
 
-Note that the dataset has been modified and resamples due to the non-disclosure agreement, the time period is from 2019 to 2020.
+Note that the dataset has been modified and resamples due to the non-disclosure agreement.
+
+The following dataset is from different tables in the data lake and survey data, and the time period is from 2019 Jan to 2020 Dec.
 
 ![image](https://user-images.githubusercontent.com/64850893/135674163-5a02499b-76e9-4add-b6ee-68105cad432e.png)
 
@@ -46,6 +48,8 @@ Note that the dataset has been modified and resamples due to the non-disclosure 
 # 6. Data cleaning
 
 * Remove the records with “null” value.
-* Manipulate certain columns. (e.g. set the ones with current brand as MJN equal to 1 , other brands as 0).
-* Scale each column (ranged from 0 to 1).
+* Manipulate certain columns. (e.g. set the ones with current brand as our brand equal to 1 , other brands as 0).
+
+![image](https://user-images.githubusercontent.com/64850893/135674873-f071c940-9765-414c-8cca-a9165718165d.png)
+
 
