@@ -27,9 +27,7 @@ The samples are selected from from multiple internal databases (with common key)
 
 Note that the dataset has been modified and resamples due to the non-disclosure agreement, the time period is from 2019 to 2020.
 
-
-![image](https://user-images.githubusercontent.com/64850893/135514790-3767aed0-35b1-4450-a3d7-d8ce9589d845.png)
-
+![image](https://user-images.githubusercontent.com/64850893/135674163-5a02499b-76e9-4add-b6ee-68105cad432e.png)
 
 
 ## Variable intepretation:
